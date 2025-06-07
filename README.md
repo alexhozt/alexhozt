@@ -12,7 +12,7 @@
 ---
 
 - 👨‍💻 Soy estudiante de Ingenieria Civil En Informatica.
-- 💬 Dentro de este repositorio puedes encontrar muchos ejemplos en diferentes lenguajes de programación, incluido proyectos personales.
+- 💬 Dentro de este repositorio vas a encontrar ejemplos y proyectos en lenguajes como JAVA, PYTHON, C Y C ++.
 - 
 
 ## 🛠 &nbsp;Tech Stack
