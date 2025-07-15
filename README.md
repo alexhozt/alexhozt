@@ -11,7 +11,7 @@
 
 # 👨‍💻 Sobre mí
 
-¡Hola! Soy **Alex**, estudiante de **Ingeniería Civil en Informática**.  
+¡Hola! Soy estudiante de **Ingeniería Civil en Informática**.  
 En este repositorio encontrarás ejemplos y proyectos desarrollados en diferentes lenguajes de programación como **Java, Python, C y C++**, además de frameworks y tecnologías modernas que uso para aprender y crear soluciones reales.
 
 ---
