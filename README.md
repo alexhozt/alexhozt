@@ -12,7 +12,7 @@
 # 👨‍💻 Sobre mí
 
 ¡Hola! Soy estudiante de **Ingeniería Civil en Informática**.  
-En este repositorio encontrarás ejemplos y proyectos desarrollados en diferentes lenguajes de programación como Python**, C** y C++**, además de frameworks y tecnologías modernas que uso para aprender y crear soluciones reales.
+En este repositorio encontrarás ejemplos y proyectos desarrollados en diferentes lenguajes de programación como **Python, C y C++**, además de frameworks y tecnologías modernas que uso para aprender y crear soluciones reales.
 
 ---
 
