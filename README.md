@@ -78,10 +78,9 @@
 ## 📎 Proyectos Destacados
 
 
-- 🗺️ **Infracheck - 2025** – Plataforma de denuncia ciudana donde las personas pueden subir sus reportes para que otras personas lo puedan ver, usando geolocalización las personas pueden ver en tiempo real donde es el problema en la ciudad de Temuco.  
-  <img src="assets/infracheck.png" alt="Infracheck - Vista de la plataforma" width="100%"/>
-- 🔌 **Simulación con Proteus + Mikrocontroladores** – Prototipos y pruebas de circuitos
-
+- 🗺️ **Infracheck - 2025** – Plataforma de denuncia ciudadana donde las personas pueden subir sus reportes de problemas que existan en la ciudad con imagenes, por ejemplo: Calles malas, postes de luz defectuosos, posibles derrumbes, etc, usando geolocalización las personas pueden ver en tiempo real donde es el problema en la ciudad de Temuco y votar para para que este reporte tenga prioridad y que las autoridades en temuco puedan hacer algo al respecto.  
+  <img src="infracheck.png" alt="Infracheck - Vista de la plataforma" width="100%"/>
+  
 ---
 
 ## 🌐 Contacto y Redes
@@ -96,7 +95,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true&section=footer"/>
 </div>
 
-<!-- Proudly crafted by Alex & a bit of AI ✨ -->
 
 
 
