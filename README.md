@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true&section=header"/>
 </div>
 
 <h3 align="center">
@@ -7,27 +7,43 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<p align="center">
+  <b>Estudiante de Ingeniería Civil en Informática · Universidad Catolica de Temuco</b>
+</p>
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+  </a>
+</p>
 
-# 👨‍💻 Sobre mí
+---
 
-¡Hola! Soy estudiante de **Ingeniería Civil en Informática**.  
-En este repositorio encontrarás ejemplos y proyectos desarrollados en diferentes lenguajes de programación como **Python, C y C++**, además de frameworks y tecnologías modernas que uso para aprender y crear soluciones reales.
+##  Sobre mí
+
+- 🧠 Me gusta trabajar con Lenguajes como **Python | C | C++**
+- ⚙️ He trabajado con **simulación electrónica** (Proteus) y **Lazarus Pascal**  
+- 🚀 Siempre aprendiendo nuevas tecnologías y construyendo proyectos reales
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Lenguajes y Frameworks
+### 💻 Lenguajes y Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+### 🌐 Frontend y Apps Web
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 📊 Ciencia de Datos
+### 📊 Ciencia de Datos y ML
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -48,16 +64,23 @@ En este repositorio encontrarás ejemplos y proyectos desarrollados en diferente
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Lazarus](https://img.shields.io/badge/Lazarus-000088?style=for-the-badge&logoColor=white)
 
-### 🐧 Sistemas Operativos
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### 🎨 Diseño
+### ⚡ Electrónica, Simulación y Otros
+![Proteus](https://img.shields.io/badge/Proteus-0A1F44?style=for-the-badge&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+## 📎 Proyectos Destacados
+
+
+- 🗺️ **Infracheck - 2025** – Plataforma de denuncia ciudana donde las personas pueden subir sus reportes para que otras personas lo puedan ver, usando geolocalización las personas pueden ver en tiempo real donde es el problema en la ciudad de Temuco.  
+  <img src="assets/infracheck.png" alt="Infracheck - Vista de la plataforma" width="100%"/>
+- 🔌 **Simulación con Proteus + Mikrocontroladores** – Prototipos y pruebas de circuitos
 
 ---
 
@@ -68,8 +91,12 @@ En este repositorio encontrarás ejemplos y proyectos desarrollados en diferente
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexismonsalve2002@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alexhozt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true&section=footer"/>
+</div>
+
+<!-- Proudly crafted by Alex & a bit of AI ✨ -->
+
 
 
