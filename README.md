@@ -73,13 +73,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
-## 📎 Proyectos Destacados
-
-
-- 🗺️ **Infracheck - 2025** – Plataforma de denuncia ciudadana donde las personas pueden subir sus reportes de problemas que existan en la ciudad con imagenes, por ejemplo: Calles malas, postes de luz defectuosos, posibles derrumbes, etc, usando geolocalización la comunidad pueden ver en tiempo real donde es el problema en la ciudad de Temuco y votar para para que este reporte tenga prioridad y que las autoridades puedan hacer algo al respecto.
-  Tecnologias usadas: **REACT + VITE & Javascript & leaflet & tailwindcss & django & postgreQSL + postgis** 
-  <img src="infracheck.png" alt="Infracheck - Vista de la plataforma" width="100%"/>
   
 ---
 
