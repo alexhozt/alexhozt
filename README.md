@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <b>Computer Engineering Student · Universidad Catolica de Temuco</b>
+  <b>Computer Engineering Student · Catholic University of Temuco, Chile</b>
 </p>
 
 <p align="center">
