@@ -20,7 +20,7 @@
 
 ## About Me
 
-- 🧠 I enjoy working with languages like **Python | C | C++**
+- 🧠 I enjoy working with languages like **Python | C | C++** and sometimes JAVA
 - ⚙️ I have experience with **electronic simulation** (Proteus) and **Lazarus Pascal**
 - 🚀 Always learning new technologies and building real-world projects
 
